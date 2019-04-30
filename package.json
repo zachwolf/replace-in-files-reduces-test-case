@@ -1,0 +1,19 @@
+{
+  "name": "replace-in-files-reduces-test-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zachwolf/replace-in-files-reduces-test-case.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "replace-in-files": "^1.1.4"
+  }
+}
